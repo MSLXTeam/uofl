@@ -11,7 +11,7 @@ export default function About() {
             <Navbar></Navbar>
             <div className="card backdrop-blur w-5/6 shadow-xl mt-6 ml-6 hover:shadow-2xl">
                 <div className="card-body">
-                    <h1 className="card-title">OpenFrp Unofficial Launcher</h1>
+                    <h1 className="card-title">Unofficial OpenFrp Launcher</h1>
                     <p>Early Access Preview</p>
                 </div>
             </div>
@@ -27,7 +27,7 @@ export default function About() {
                 <div className="collapse-title text-xl font-medium">开源项目使用目录</div>
                 <div className="collapse-content">
                     <div className="divider"></div>
-                    <p>version: 1.7.0</p>
+                    <p>tauri | version: 1.7.0</p>
                     <div className="divider"></div>
                     <a href={"https://github.com/ZGIT-Network/OPENFRP-APIDOC"} target={"_blank"}>OpenFrp OpenAPI | </a>
                     <a href={"https://zgitopenfrp.apifox.cn"} target={"_blank"}>Apifox</a>

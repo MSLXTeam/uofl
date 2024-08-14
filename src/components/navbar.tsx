@@ -32,7 +32,7 @@ export default function Navbar(){
                 </div>
             </div>
             <div className="navbar-center">
-                <a className="btn btn-ghost text-xl text-neutral-content">OpenFrp Unofficial</a>
+                <Link className="btn btn-ghost text-xl text-neutral-content" href="/">OpenFrp Unofficial</Link>
             </div>
             <div className="navbar-end">
                 <SwapMode></SwapMode>
